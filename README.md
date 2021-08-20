@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AayanYasin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning OOP's in Python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me aayan06pk@gmail.com
 
